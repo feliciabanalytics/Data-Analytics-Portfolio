@@ -6,3 +6,5 @@ Finance and analytics professional with experience in FP&A, performance reportin
 - Skilled in MS Excel, SQL, and Power BI data visualization (including Power Query,PowerPivot and DAX).  
 
 **Featured Projects**
+Dashboard
+Power BI - DAX -
