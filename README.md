@@ -8,7 +8,7 @@ Finance and analytics professional with experience in FP&A, performance reportin
 
 # Featured Projects
 **Course Dashboard**
-Power BI - DAX -
+Power BI-DAX-KPI Tracking
 \
 # Technical Profiency
 **Languages**: SQL, DAX
