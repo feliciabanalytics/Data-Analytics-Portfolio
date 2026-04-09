@@ -8,7 +8,7 @@ Finance and analytics professional with experience in FP&A, performance reportin
 
 # Featured Projects
 **Course Dashboard**
-Power BI(-)DAX(-)KPI Tracking
+Power BI | DAX | KPI Tracking
 
 Interactive BI dashboard monitoring company performance KPIs. Tracks revenue, profit, customer demographics, and product details. Enables executive managment to identify top performing products, analyze price change impacts on profitability 
 Power BI(-)DAX(-)KPI Tracking
