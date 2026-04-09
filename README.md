@@ -5,7 +5,7 @@ Hi, I'm Felicia 👋
 Finance and analytics professional with experience in FP&A, performance reporting, variance analysis, and process improvement. I leverage SQL, MS Excel, and Power BI (including Power Query,PowerPivot and DAX) to turn complex financial data into clear dashboards, performance insights, and decision-ready reporting tools.
 
 ## Featured Projects
-[Adventure Works KPI Dashboard]{https://github.com/feliciabanalytics/Guided-Course-Project-Dashboard/blob/main/README.md}
+[Adventure Works KPI Dashboard]{https://github.com/feliciabanalytics/Guided-Course-Project-Dashboard}
 **Course Dashboard - KPI Monitoring**
 
 Power BI | DAX | KPI Tracking | Guided Project 
