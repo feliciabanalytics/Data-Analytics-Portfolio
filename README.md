@@ -12,4 +12,5 @@ Power BI - DAX -
 \
 # Technical Profiency
 **Languages**: SQL, DAX
+
 **Tools**: MS Excel, Power BI
