@@ -1,4 +1,4 @@
-# Welcome to My Business Intelligence Portfolio
+# Welcome to My BI and Data Analytics Portfolio
 
 Hi, I'm Felicia 👋
 
