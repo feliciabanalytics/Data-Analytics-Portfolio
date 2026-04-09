@@ -1,4 +1,4 @@
-# Welcome-to-My-Data-Analyst-Portfolio
+# Welcome to My Data Analyst Portfolio
 
 Hi, I'm Felicia 👋
 
