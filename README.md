@@ -18,6 +18,6 @@ Interactive BI dashboard built as part of the  Power BI Desktop course offered b
 
 **Tools**: MS Excel, Power BI, Power Pivot, Pivot Tables
 
-# Find Me
+Find Me
 Email: Feliciabiancabenjamin@gmail.com | LinkedIn: www.linkedin.com/in/felicia-benjamin
 
