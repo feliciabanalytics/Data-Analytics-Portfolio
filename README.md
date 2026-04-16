@@ -12,6 +12,7 @@ Power BI | DAX | KPI Tracking | Guided Project
 
 Interactive BI dashboard built as part of the  **Power BI Desktop** course offered by **Maven Analytics**. Tracks revenue, profit, customer demographics, and product details, enabling executive-level users to identify top performing products, analyze price change impacts on profitability. 
 
+### [Adventure Works SQL Case Study](https://github.com/feliciabanalytics/SQL_Performance_Analysis)
 
 ## Technical Profiency
 **Languages**: SQL, DAX
