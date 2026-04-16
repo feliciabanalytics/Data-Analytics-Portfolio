@@ -29,6 +29,8 @@ Business insights gathered by engineering a series of SQL scripts to transform t
 - Data Modeling
 - Performance Reporting
 - Variance Analysis
+- Advanced SQL
+- Technical Documentation
 
 ## Find Me
 Email: Feliciabiancabenjamin@gmail.com | LinkedIn: www.linkedin.com/in/felicia-benjamin
