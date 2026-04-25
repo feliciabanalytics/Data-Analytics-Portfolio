@@ -12,6 +12,10 @@ Power BI | DAX | KPI Tracking | Guided Project
 
 Interactive BI dashboard built as part of the  **Power BI Desktop** course offered by **Maven Analytics**. Tracks revenue, profit, customer demographics, and product details, enabling executive-level users to identify top performing products, analyze price change impacts on profitability. 
 
+### [Hotel F&B Revenue & Expenses SQL Case Study](https://github.com/feliciabanalytics/SQL-Financial-Exploration)
+**SQL - Stakeholder Reporting**
+Business insights gathered by engineering a series of SQL scripts to transform transational data into decision ready business metrics. This study explores hotel food & beverage revenue and expenses across 3 fiscal years to compare performance to budget.
+
 ### [AdventureWorks SQL Case Study](https://github.com/feliciabanalytics/SQL-Performance-Analysis)
 **SQL - Stakeholder Reporting**
 
